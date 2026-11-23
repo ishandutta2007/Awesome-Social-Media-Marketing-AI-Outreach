@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Social-Media-Marketing-AI-Outreach/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,7 +70,7 @@ The global **Social Media Management Software (SMMS) market** is valued at appro
 
 *The table below features the most active, high-impact open-source tools for social media scheduling, AI agent outreach, social listening, link attribution, and marketing automation. Entries are sorted in descending order by GitHub stargazers count, with real-time social badges linking directly to their stargazers page.*
 
-| Project & Repository | GitHub Stars Badge | Tech Stack / Architecture | Core Focus & Description |
+| Project & Repository | GitHub_Stars_Badge | Tech Stack / Architecture | Core Focus & Description |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript, Node.js, Vue | Fair-code workflow automation engine with native AI agent nodes, pre-built social connectors (X, LinkedIn, Telegram, Discord, Mastodon), and autonomous marketing webhooks. |
 | **[Ollama](https://github.com/ollama/ollama)** | [![Ollama Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Go, C/C++ | Local LLM runtime to power private, zero-API-cost social copy generation, tone adaptation, sentiment classification, and automated DM reply pipelines. |
